@@ -1,0 +1,18 @@
+{
+  "name": "demo-slot-joker",
+  "main": "./lib/demo-slot-joker",
+  "version": "1.0.0",
+  "description": "Cek Info Algoritma Kumpulan Game Gacor Demo Slot Joker Free Spin",
+  "keywords": ["agentotoplay slot","agen slot terbaik","slot terbaik","habanero slot","slot online","agentoto slot","games slot gampang menang","slot online cq9"],
+
+  "activationCommands": {
+    "atom-workspace": "demo-slot-joker:toggle"
+  },
+  "repository": "https://github.com/gameslotterpercaya93/demo-slot-joker",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
