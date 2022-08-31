@@ -3,9 +3,9 @@
 <details open><summary><b>Show / Hide Ads</b></summary>
 
 # [Kode Cheat Kumpulan Game Gacor Demo Slot Joker Terpopuler](https://atom.io/packages/demo-slot-joker)
-## :ok_hand: klik untuk [Mulai Deposit Sekarang](https://agentotoplay.net/register/) :ok_hand: <<< 
-## :radio_button: klik untuk [Dapatkan Akun Gacor](https://agentotoplay.net/promo/) :snowflake: <<< 
-## :zap: klik untuk [Daftar Sekarang](https://agentotoplay.net/register/) :ok_hand: <<< 
+## :ok_hand: klik untuk [Mulai Deposit Sekarang](https://golinkurl.github.io/register/) :ok_hand: <<< 
+## :radio_button: klik untuk [Dapatkan Akun Gacor](https://golinkurl.github.io/promo/) :snowflake: <<< 
+## :zap: klik untuk [Daftar Sekarang](https://golinkurl.github.io/register/) :ok_hand: <<< 
 
 ## Informasi Situs /Server Kami : 
 
